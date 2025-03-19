@@ -121,6 +121,7 @@ Emoji Symbols used in this list
 - :moneybag: :white_check_mark: [Trello](https://trello.com): Kan Ban boards and team collaboration.
 - :moneybag: [Basecamp 3](https://basecamp.com): good for small teams.
 - :moneybag: [Asana](https://asana.com/): popular in business.
+- :moneybag: [Merlin Project](https://www.projectwizards.net/en/merlin-project): professional project management on macOS and iOS: Gantt, Kanban, Mindmap, AI Project Generation and more.
 
 ### Project management techniques
 
